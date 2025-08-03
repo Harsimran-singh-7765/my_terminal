@@ -1,4 +1,4 @@
-# smartterminal
+# Myterminal
 
 Smart Terminal CLI using Gemini 2.0 Flash 🚀  
 Type natural language, get real terminal commands.
