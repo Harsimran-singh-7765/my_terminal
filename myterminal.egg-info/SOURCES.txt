@@ -3,6 +3,7 @@ setup.py
 myterminal/__init__.py
 myterminal/__main__.py
 myterminal/core.py
+myterminal/gitops.py
 myterminal.egg-info/PKG-INFO
 myterminal.egg-info/SOURCES.txt
 myterminal.egg-info/dependency_links.txt
