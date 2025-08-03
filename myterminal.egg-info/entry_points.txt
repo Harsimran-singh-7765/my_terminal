@@ -1,0 +1,2 @@
+[console_scripts]
+myterminal = myterminal.__main__:main
